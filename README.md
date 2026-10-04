@@ -1,5 +1,7 @@
 # soda-animation
 
+[Ver projeto online](https://peppy-dieffenbachia-a483e1.netlify.app/)
+
 Criei este projeto para testar animações, transições suaves e interações com scroll em uma interface de produto. A ideia foi explorar como tipografia, cores, imagens e movimento podem trabalhar juntos para apresentar diferentes sabores dentro de uma única hero.
 
 Usei uma marca conceitual de bebidas, **VIVA**, como cenário para esses experimentos. O foco do projeto é o estudo de animação e experiência visual no front-end.
