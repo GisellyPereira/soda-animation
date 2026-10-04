@@ -1,0 +1,1 @@
+{"name":"viva-soda","version":"1.0.0","private":true,"description":"Experiência interativa de bebida inspirada nas referências fornecidas.","scripts":{"dev":"python3 -m http.server 4173 --bind 127.0.0.1","start":"python3 -m http.server 4173 --bind 127.0.0.1"}}

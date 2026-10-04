@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.env
+.env.*
+__pycache__/
+preview.jpg
+sequence-preview.jpg
+stop-preview.jpg
+transition-preview.jpg
